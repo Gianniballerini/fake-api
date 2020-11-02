@@ -5,11 +5,11 @@
     { "id": 3, "userId": 1, "title": "Gift card | EDEN", "issuer": "Naryan3", "description": "Aliquam erat volutpat. Fusce semper tincidunt placerat. Aliquam vitae nisl scelerisque, consequat elit rutrum, commodo lectus. Nullam laoreet dui quis ante aliquam finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus." }
   ],
   "assets": [
-    { "id": 1, "name": "Asset 1 Name", "userId": 1 }
-    { "id": 2, "name": "Asset 2 Name", "userId": 2 }
-    { "id": 3, "name": "Asset 3 Name", "userId": 1 }
-    { "id": 4, "name": "Asset 4 Name", "userId": 1 }
-    { "id": 5, "name": "Asset 5 Name", "userId": 2 }
+    { "id": 1, "name": "Asset 1 Name", "userId": 1 },
+    { "id": 2, "name": "Asset 2 Name", "userId": 2 },
+    { "id": 3, "name": "Asset 3 Name", "userId": 1 },
+    { "id": 4, "name": "Asset 4 Name", "userId": 1 },
+    { "id": 5, "name": "Asset 5 Name", "userId": 2 },
     { "id": 6, "name": "Asset 6 Name", "userId": 1 }
   ],
   "users": [
